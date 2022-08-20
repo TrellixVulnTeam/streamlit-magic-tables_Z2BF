@@ -1,10 +1,15 @@
-# Streamlit Component template in Vue.js
+# Streamlit Magic-Tables should enhance the capabilities of streamlit dataframes functionality
 
-Vue 3 template to build a Streamlit component. Uses Vue.js scoped slot to send parameters from Streamlit Python script into `args` props of your component.
+[Template](https://github.com/andfanilo/streamlit-component-template-vue) was used to create this component
 
-## Setup
+## Functionalities
 
-[Copy paste](https://github.com/streamlit/component-template#quickstart) of the original component-template quickstart.
+  - Return clicked column/row
+  - Add Filtering
+  - Add Sorting and restoring Table
+
+## Developer
+
 
 - Ensure you have [Python 3.6+](https://www.python.org/downloads/), [Node.js](https://nodejs.org), and [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed.
 - Clone this repo.
