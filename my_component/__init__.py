@@ -40,7 +40,7 @@ def my_component(name, key=None):
 
 
 if not _RELEASE:
-    
+
 
     st.subheader("Component with constant args")
 
