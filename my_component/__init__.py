@@ -40,6 +40,8 @@ def my_component(name, key=None):
 
 
 if not _RELEASE:
+    
+
     st.subheader("Component with constant args")
 
     # Create an instance of our component with a constant `name` arg, and
